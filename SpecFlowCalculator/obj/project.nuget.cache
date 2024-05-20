@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DD8OdV4brdL5g1XTw6InQbUerV+qzwa8J0n0hYcAfeIyzHEkkNaV0k07ni6we82WtaiNpp0NRD17lEuGCDQR9A==",
+  "success": true,
+  "projectFilePath": "E:\\Documents_HDD\\ssd\\Cours_ESGI\\M1\\Behaviour Driven Development\\TP1\\JetBrains Rider\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
