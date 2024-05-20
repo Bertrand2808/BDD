@@ -9,3 +9,4 @@ E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP1\JetBrains Ri
 E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP1\JetBrains Rider\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\refint\SpecFlowCalculator.dll
 E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP1\JetBrains Rider\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
 E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP1\JetBrains Rider\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP1\JetBrains Rider\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.sourcelink.json
